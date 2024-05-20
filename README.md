@@ -10,6 +10,8 @@ The commands delivered to the agent are based on a list "cmd.txt" (one per line)
 
 Note that this project is not completed yet, and will receive a lot of changes over time when I can work on it.
 
+![AcidSplash C2 V0.1](https://raw.githubusercontent.com/PeterEdtu/AcidSplash-RAT/main/acidsplash_c2_v0-1_example.png)
+
 ###TODO:
 - Communication:
     - Change debug mode to a more stealthy method (avoid app route system)
