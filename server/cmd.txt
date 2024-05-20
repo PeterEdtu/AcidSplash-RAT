@@ -1,0 +1,7 @@
+whoami
+sleep
+whoami
+firefox
+ifconfig
+sleep
+exit
